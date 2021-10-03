@@ -50,6 +50,9 @@ Should the repository be pulled first and commit the new state on top?
 
 The commit message for the next commit.
 
+### `repository.branch`
+
+The working branch for the repository.
 
 ### `export.lovelace`
 
